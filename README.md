@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 回归分析与统计检验｜statsmodels
+
+> **一句话看懂：做回归、统计检验和时间变化分析。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 做回归、统计检验和时间变化分析。 |
+| 怎么使用 | 通过Python代码建立统计模型、做检验并查看结果。 |
+| 适合谁 | 需要做实证研究、回归和时间变化分析的人。 |
+| 主要限制 | 缺失值、变量高度重复等问题可能影响结果。 |
+| 后续可以怎么改 | 分析前检查数据，输出诊断和结果说明。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 ![Statsmodels logo](docs/source/images/statsmodels-logo-v2-horizontal.svg)
 
 [![PyPI
@@ -175,3 +200,5 @@ usability and suggestions for improvements.
 Bug reports can be submitted to the issue tracker at
 
 <https://github.com/statsmodels/statsmodels/issues>
+
+</details>
